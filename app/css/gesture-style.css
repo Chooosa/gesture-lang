@@ -1,0 +1,16 @@
+video {
+   max-width: 600px;
+   max-height: 450px;
+   width: 100%;
+}
+.letter {
+   font-weight: 600;
+   color: #202126;
+   display: block;
+   font-size: 16px;
+   line-height: 22px;
+   padding: 0;
+}
+.gesture__slider .slick-dots li.slick-active button:before {
+   color: #fff;
+}
